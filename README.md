@@ -52,6 +52,20 @@
 * https://cloud.google.com/solutions/mobile/
 * 
 * 
+* https://www.youtube.com/watch?v=9jq1j_xwR9k
+* https://www.youtube.com/watch?v=eVgRvYUlpok
+* https://www.academia.edu/37015964/Android_Application_for_College_Management_System
+* https://github.com/RajneeshSingh007/College-Management-Android-App
+* https://toolheap.com/test-mail-server-tool/
+* https://github.com/Ankit-Khachane/CollegeSystem
+* https://github.com/topics/college-management
+* https://github.com/topics/college-management?l=java
+* https://github.com/Alok255/SAM-College-Digital-Android-App-College-Project
+* https://github.com/raghukirank/College-Management-System
+* https://github.com/SouravDas25/AttendanceMS
+* https://www.000webhost.com/
+* https://github.com/menuka94/android-college-grades-management-system
+* https://github.com/menuka94/ng2-college-grades-management-system
 * 
 * 
 * 
@@ -60,3 +74,13 @@
 * 
 * 
 * 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
