@@ -66,15 +66,15 @@
 * https://www.000webhost.com/
 * https://github.com/menuka94/android-college-grades-management-system
 * https://github.com/menuka94/ng2-college-grades-management-system
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* https://abhiandroid.com/ui/webview
+* https://scotch.io/@devGson/api-authentication-with-json-web-tokensjwt-and-passport
+* https://github.com/SouravDas25/AttendanceMS
+* https://closebrace.com/tutorials/2017-03-02/creating-a-simple-restful-web-app-with-nodejs-express-and-mongodb
+* https://blog.knoldus.com/a-simple-login-application-in-node-js-and-mongodb/
+* https://scotch.io/tutorials/easy-node-authentication-setup-and-local
+* https://github.com/bradtraversy/node_passport_login
+* https://github.com/AzharHusain/login-registration-passport
+* https://mherman.org/blog/handling-user-authentication-with-the-mean-stack/
 * 
 * 
 * 
