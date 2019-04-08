@@ -76,6 +76,22 @@
 * https://github.com/AzharHusain/login-registration-passport
 * https://mherman.org/blog/handling-user-authentication-with-the-mean-stack/
 * 
+* https://stackoverflow.com/questions/16200115/how-to-finish-mainactivity-from-activity3
+* https://www.vogella.com/tutorials/AndroidLifeCycle/article.html
+* https://www.vogella.com/tutorials/AndroidIntent/article.html
+* https://medium.com/@douglas.iacovelli/android-send-result-back-through-multiple-activities-finished-or-not-4c2ba9e95112
+* https://www.learn2crack.com/2016/10/android-switching-between-activities-example.html
+* https://stackoverflow.com/questions/32860557/refresh-activity-on-back-button?rq=1
+* https://vcfvct.wordpress.com/2013/10/26/refresh-activity-on-back-button-in-android/
+* https://www.javatpoint.com/android-option-menu-example
+* https://tekeye.uk/android/examples/starting-a-second-activity
+* https://stackoverflow.com/questions/10936042/how-to-open-layout-on-button-click-android
+* https://stackoverflow.com/questions/15991355/how-to-display-new-screen-when-a-button-is-clicked
+* https://www.viralandroid.com/2015/10/start-new-activity-when-button-is-clicked.html
+* https://www.androidbegin.com/tutorial/android-button-click-new-activity-example/
+* https://www.stechies.com/create-splash-screen-android-studio-welcome-screen/
+* https://www.mkyong.com/android/android-activity-from-one-screen-to-another-screen/
+* https://appsandbiscuits.com/moving-between-activities-with-intents-android-8-697b3b70fdfd
 * 
 * 
 * 
@@ -83,4 +99,12 @@
 * 
 * 
 * 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
 
