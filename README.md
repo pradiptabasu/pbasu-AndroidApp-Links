@@ -94,9 +94,9 @@
 * https://appsandbiscuits.com/moving-between-activities-with-intents-android-8-697b3b70fdfd
 * 
 * 
-* 
-* 
-* 
+* https://stackoverflow.com/questions/4186021/how-to-start-new-activity-on-button-click
+* https://developer.android.com/training/basics/firstapp/starting-activity
+* https://www.androidbegin.com/tutorial/android-button-click-new-activity-example/
 * 
 * 
 * 
