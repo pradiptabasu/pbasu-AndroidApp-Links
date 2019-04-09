@@ -106,5 +106,44 @@
 * 
 * 
 * 
-
-
+* 
+* https://github.com/SouravDas25/AttendanceMS/edit/master/AttendanceMS-App/app/src/main/java/com/tict/attendancems/MainActivity.java
+* https://stackoverflow.com/questions/4186021/how-to-start-new-activity-on-button-click
+* https://www.androidbegin.com/tutorial/android-button-click-new-activity-example/
+* https://developer.android.com/training/basics/firstapp/starting-activity
+* 
+* 
+* 
+* https://www.dev2qa.com/passing-data-between-activities-android-tutorial/
+* https://stackoverflow.com/questions/2091465/how-do-i-pass-data-between-activities-in-android-application
+* https://medium.com/@peterekeneeze/passing-data-between-activities-2d0ef122f19d
+* https://androidexample.com/Android_Session_Management_Using_SharedPreferences_-_Android_Example/index.php?view=article_discription&aid=127
+* https://scotch.io/tutorials/the-easiest-way-to-add-authentication-to-any-app
+* https://jonathanmh.com/express-passport-json-web-token-jwt-authentication-beginners/
+* https://blog.theodo.fr/2017/03/how-to-create-an-authentication-system-and-a-persistent-user-session-with-react-native/
+* https://www.dev2qa.com/passing-data-between-activities-android-tutorial/
+* 
+* 
+* https://stackoverflow.com/questions/30953052/manually-call-passport-for-authentication
+* https://stackoverflow.com/questions/42693913/api-login-from-android-app-using-laravel-5-3-passport
+* https://stackoverflow.com/questions/31617900/authenticating-android-user-using-node-js-passport
+* https://stackoverflow.com/questions/20000195/how-can-i-protect-an-api-endpoint-with-passportjs
+* https://medium.com/@alexmngn/the-essential-boilerplate-to-authenticate-users-on-your-react-native-app-f7a8e0e04a42
+* https://stormpath.com/blog/the-ultimate-guide-to-mobile-api-security
+* 
+* 
+* 
+* https://developer.android.com/training/transitions
+* control screen transition between android activity
+* https://stackoverflow.com/questions/3389501/activity-transition-in-android
+* https://developer.android.com/training/transitions/start-activity
+* https://developer.android.com/training/transitions/start-activity
+* https://kylewbanks.com/blog/left-and-right-slide-animations-on-android-activity-or-view
+* https://dzone.com/articles/material-design-activity
+* https://blog.prototypr.io/applying-meaningful-motion-on-android-a271a873bd78
+* http://www.androiddocs.com/training/material/animations.html
+* https://www.vogella.com/tutorials/AndroidAnimation/article.html
+* 
+* 
+* 
+* 
