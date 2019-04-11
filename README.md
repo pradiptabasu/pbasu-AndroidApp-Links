@@ -147,3 +147,48 @@
 * 
 * 
 * 
+* 
+* 
+# Making Network Call from Main thread
+Caused by: android.os.NetworkOnMainThreadException
+* https://stackoverflow.com/questions/13136539/caused-by-android-os-networkonmainthreadexception
+
+There are two Solution of this Problem.
+1) Don't write network call in Main UI Thread, Use Async Task for that.
+2) Write below code into your MainActivity file after setContentView(R.layout.activity_main);
+if (android.os.Build.VERSION.SDK_INT > 9) {
+    StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
+    StrictMode.setThreadPolicy(policy);
+}
+
+And below import statement into your java file.
+import android.os.StrictMode;
+
+* http://www.lucazanini.eu/en/2012/android/the-android-os-networkonmainthreadexception-exception/
+* https://inducesmile.com/android-tips/android-error-android-os-networkonmainthreadexception/
+* https://www.androidstation.info/networkonmainthreadexception/
+* https://www.javatips.net/api/android.os.networkonmainthreadexception
+* https://www.youtube.com/watch?v=_7r_vdwmW0o
+* https://www.youtube.com/watch?v=enrPlCWHTb4
+* https://www.youtube.com/watch?v=zHGgSd1wvxY
+* https://www.youtube.com/watch?v=oGWJ8xD2W6k
+
+
+# Making Network Call from Main thread
+Calling HTTP endpoints from Android app native or web view
+Since calling HTTP endpoints is not allowed by default in higher android versions, we have two options
+1. Allow CleartextTraffic at the activity level for all domains or IPs on AndroidManifest.xml
+    <activity android:name=".MainActivity" android:usesCleartextTraffic="true">
+
+2. Allow CleartextTraffic for specific domains or IPs using the res/xml/network_security_config.xml file.
+    network_security_config.xml
+      <?xml version="1.0" encoding="utf-8"?>
+      <network-security-config>
+        <domain-config cleartextTrafficPermitted="true">
+          <domain includeSubdomains="true">localhost</domain>
+          <domain includeSubdomains="true">127.0.0.1</domain>
+          <domain includeSubdomains="true">10.0.2.2</domain>
+        </domain-config>
+      </network-security-config>
+
+
