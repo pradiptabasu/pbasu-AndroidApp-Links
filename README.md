@@ -192,3 +192,29 @@ Since calling HTTP endpoints is not allowed by default in higher android version
       </network-security-config>
 
 
+# Cookies Management & Sharing
+* https://github.com/franmontiel/PersistentCookieJar
+* https://stackoverflow.com/questions/24263921/how-to-implement-cookie-handling-on-android-using-okhttp
+* https://medium.com/@elye.project/a-tale-on-android-cookies-store-management-b04832ca18c6
+* https://www.javatips.net/api/okhttputils-master/okhttputils/src/main/java/com/zhy/http/okhttp/cookie/store/PersistentCookieStore.java
+* https://www.programcreek.com/java-api-examples/?api=com.franmontiel.persistentcookiejar.PersistentCookieJar
+* 
+* https://gist.github.com/jesty/e934314cae3d2014c6fa46ab64f3904e
+* https://stackoverflow.com/questions/12770598/send-cookies-to-next-activity-android
+* https://stackoverflow.com/questions/28763326/android-keep-user-logged-between-activities
+* https://stackoverflow.com/questions/9516481/how-to-pass-cookies-to-a-new-activity
+* https://stackoverflow.com/questions/10738029/how-to-keep-http-session-cookies-in-httpcontext-between-activities-on-android
+* https://developer.android.com/reference/android/webkit/CookieSyncManager
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
