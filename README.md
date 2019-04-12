@@ -100,8 +100,8 @@
 * 
 * 
 * 
-* 
-* 
+* https://github.com/chanducodemonk/College-Android-App.
+* https://github.com/Ankit-Khachane/CollegeSystem
 * 
 * 
 * 
