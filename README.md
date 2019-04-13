@@ -211,6 +211,38 @@ Since calling HTTP endpoints is not allowed by default in higher android version
 * 
 * 
 * 
+
+# Parse Platform
+* https://parseplatform.org
+* https://www.back4app.com/docs/android/login-android-tutorial
+* https://github.com/parse-server-modules
+* https://github.com/parse-community
+* https://www.back4app.com/docs/android/parse-android-sdk
+* https://jitpack.io/
+* https://guides.codepath.com/android/Building-Data-driven-Apps-with-Parse
+* https://github.com/relatedcode/ParseAlternatives
+* https://firebase.google.com/
+* https://github.com/parse-community/parse-server-example
+* https://www.npmjs.com/package/parse-server
+* https://www.nodechef.com/docs/parse-server/parse-server-local-example
+* https://github.com/parse-community/parse-server
+* https://github.com/parse-community/parse-dashboard
+* https://github.com/parse-community/Parse-SDK-Android
+* https://www.back4app.com/
+* https://medium.com/@cristi_ursachi/installing-your-own-parse-server-on-windows-b2c7a2498d19
+* https://medium.com/@devinfinzer/how-to-run-a-local-development-environment-in-parse-39209d786fd3
+* https://medium.com/@timothy_whiting/setting-up-your-own-parse-server-568ee921333a
+* https://www.youtube.com/watch?v=7WmskTapbZk
+* https://www.youtube.com/watch?v=B7JFc51DitI
+* https://www.youtube.com/watch?v=c3KAN-BJxKo
+* https://www.youtube.com/watch?v=agXcuQhWCoU
+* https://www.youtube.com/watch?v=bohJvP6upZ4
+* https://www.youtube.com/watch?v=NREbcZB9r5M
+* https://www.youtube.com/watch?v=Cp3VRKrnZ2o
+* https://medium.com/@timothy_whiting/setting-up-your-own-parse-server-568ee921333a
+* https://inducesmile.com/android-tutorials-for-nigerian-developer/android-tutorial-how-to-use-parse-backend-in-android-app/
+* https://www.sitepoint.com/creating-cloud-backend-android-app-using-parse/
+* 
 * 
 * 
 * 
