@@ -250,3 +250,22 @@ Since calling HTTP endpoints is not allowed by default in higher android version
 * 
 * 
 * 
+
+# Using org.apache.http in Android 6.0 i.e. API Level 23 onwards
+* https://stackoverflow.com/questions/30856785/how-to-add-apache-http-api-legacy-as-compile-time-dependency-to-build-grade-fo
+* https://developer.android.com/about/versions/pie/android-9.0-changes-28
+* https://stackoverflow.com/questions/31433687/android-gradle-apache-httpclient-does-not-exist
+* https://developer.android.com/about/versions/marshmallow/android-6.0-changes
+* https://developer.android.com/about/versions/pie/android-9.0-changes-all
+* https://developer.android.com/preview/behavior-changes-all
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
