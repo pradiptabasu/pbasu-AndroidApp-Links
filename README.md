@@ -251,6 +251,43 @@ Since calling HTTP endpoints is not allowed by default in higher android version
 * 
 * 
 
+# Parse Platform - Email Verification and Password Reset
+* https://www.octobot.io/blog/2016-09-12-sending-parse-servers-password-reset-and-user-validation-emails-using-mandrill-with-templates/
+* https://www.back4app.com/docs/advanced-guides/parse-server-3
+* https://www.back4app.com/docs/guest/parse-security
+* https://www.back4app.com/docs/javascript/parse-login-javascript
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+
+# Parse Platform Alternative
+* https://www.back4app.com/
+* https://bitnami.com/stack/parse
+* https://www.sashido.io/
+* https://www.redbytes.in/parse-alternative-services-2018/
+* https://www.built.io/
+* https://firebase.google.com/
+* https://backendless.com/
+* https://github.com/relatedcode/ParseAlternatives
+* https://medium.com/@brenda.clark/parse-alternative-my-experience-moving-to-an-open-source-backend-524ab7c22ee3
+* https://www.slant.co/topics/5303/~parse-alternatives
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
 # Using org.apache.http in Android 6.0 i.e. API Level 23 onwards
 * https://stackoverflow.com/questions/30856785/how-to-add-apache-http-api-legacy-as-compile-time-dependency-to-build-grade-fo
 * https://developer.android.com/about/versions/pie/android-9.0-changes-28
