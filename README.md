@@ -242,7 +242,7 @@ Since calling HTTP endpoints is not allowed by default in higher android version
 * https://medium.com/@timothy_whiting/setting-up-your-own-parse-server-568ee921333a
 * https://inducesmile.com/android-tutorials-for-nigerian-developer/android-tutorial-how-to-use-parse-backend-in-android-app/
 * https://www.sitepoint.com/creating-cloud-backend-android-app-using-parse/
-* 
+* https://www.future-processing.pl/blog/persist-your-data-activeandroid-and-parse/
 * 
 * 
 * 
