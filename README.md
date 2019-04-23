@@ -278,8 +278,8 @@ Since calling HTTP endpoints is not allowed by default in higher android version
 * https://github.com/relatedcode/ParseAlternatives
 * https://medium.com/@brenda.clark/parse-alternative-my-experience-moving-to-an-open-source-backend-524ab7c22ee3
 * https://www.slant.co/topics/5303/~parse-alternatives
-* 
-* 
+* https://buddy.com/
+* https://pusher.com/
 * 
 * 
 * 
