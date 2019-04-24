@@ -243,6 +243,10 @@ Since calling HTTP endpoints is not allowed by default in higher android version
 * https://inducesmile.com/android-tutorials-for-nigerian-developer/android-tutorial-how-to-use-parse-backend-in-android-app/
 * https://www.sitepoint.com/creating-cloud-backend-android-app-using-parse/
 * https://www.future-processing.pl/blog/persist-your-data-activeandroid-and-parse/
+* https://www.webcomponents.org/
+* https://github.com/parse-community
+* https://github.com/back4app
+* https://docs.parseplatform.org/android/guide/
 * 
 * 
 * 
@@ -280,6 +284,12 @@ Since calling HTTP endpoints is not allowed by default in higher android version
 * https://www.slant.co/topics/5303/~parse-alternatives
 * https://buddy.com/
 * https://pusher.com/
+* https://www.sashido.io/
+* https://pushbots.com/
+* https://www.pushmaze.com/
+* https://onesignal.com/
+* https://aws.amazon.com/sns/
+* https://trigger.io/
 * 
 * 
 * 
@@ -306,3 +316,38 @@ Since calling HTTP endpoints is not allowed by default in higher android version
 * 
 * 
 
+
+# Android Notification
+* https://www.back4app.com/docs/android/push-notifications/parse-server-push-notifications
+* https://buddy.com/mobile-backend/push-configuration/
+* https://www.quora.com/How-do-I-send-Android-Push-Notification-using-Parse
+* https://blog.sashido.io/android-push-notifications-how-to-start-using-fcm/
+* https://www.quora.com/Is-it-possible-to-send-push-notifications-without-using-a-cloud-service-like-GCM
+* https://pusher.com/tutorials/push-notifications-android
+* https://www.androidhive.info/2015/06/android-push-notifications-using-parse-com/
+* https://firebase.google.com/support/release-notes/android#latest_sdk_versions
+* https://www.back4app.com/docs/android/push-notifications/parse-push-notifications
+* https://www.back4app.com/docs/android/android-project-with-source-code-download
+* https://www.back4app.com/docs/react/react-native-template
+* https://android.jlelse.eu/android-push-notification-using-firebase-and-advanced-rest-client-3858daff2f50
+* https://www.codementor.io/flame3/send-push-notifications-to-android-with-firebase-du10860kb
+* https://www.androidhive.info/2012/10/android-push-notifications-using-google-cloud-messaging-gcm-php-and-mysql/
+* https://www.androidauthority.com/android-push-notifications-with-firebase-cloud-messaging-925075/
+* https://medium.com/mindorks/code-8-add-firebase-push-notification-in-your-android-app-61a1db82e6de
+* https://www.survivingwithandroid.com/2016/09/android-firebase-push-notification.html
+* http://www.tothenew.com/blog/push-notifications-using-firebase-cloud-messaging/
+* http://androidbash.com/firebase-push-notification-android/
+* https://www.itwonders-web.com/blog/push-notification-using-firebase-demo-tutorial
+* https://blog.usejournal.com/send-device-to-device-push-notifications-without-server-side-code-238611c143
+* https://medium.com/@Miqubel/mastering-firebase-notifications-36a3ffe57c41
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
