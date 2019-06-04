@@ -358,3 +358,55 @@ Since calling HTTP endpoints is not allowed by default in higher android version
 * 
 * 
 * 
+
+
+	
+* https://firebase.google.com/docs/cloud-messaging/server
+* https://stackoverflow.com/questions/37367292/how-to-create-topic-in-fcm-notifications
+* https://stackoverflow.com/questions/47639605/does-firebase-cloud-messaging-provide-a-graphical-user-interface-to-see-manage
+* https://android.jlelse.eu/android-push-notification-using-firebase-and-advanced-rest-client-3858daff2f50
+* https://firebase.google.com/docs/cloud-messaging/server
+* https://firebase.google.com/docs/functions/
+* https://stackoverflow.com/questions/37516589/send-push-notifications-from-server-with-fcm
+* https://medium.com/@srinuraop/sending-messages-from-app-server-to-clients-using-fcm-b2a471fc3e33
+* https://firebase.googleblog.com/2018/04/time-to-upgrade-from-gcm-to-fcm.html
+* https://lhe.io/fcm-push-notification-server-side-integration/
+* https://stackoverflow.com/questions/42694295/fcm-topic-creation-in-app-server
+* https://groups.google.com/forum/#!topic/firebase-talk/tLY0Sc4gHGc
+* https://stackoverflow.com/questions/37367292/how-to-create-topic-in-fcm-notifications
+* https://developers.google.com/instance-id/reference/server#create_relationship_maps_for_app_instances
+* https://stackoverflow.com/questions/43174294/how-to-get-the-iid-token-for-google-instance-id-service
+* https://developers.google.com/instance-id/reference/server
+* https://firebase.google.com/docs/reference/android/com/google/firebase/iid/FirebaseInstanceId
+* https://blog.abhisheknandi.com/android-user-identify-4f630fd16ffe
+
+* https://medium.com/@ThatJenPerson/authenticating-firebase-cloud-messaging-http-v1-api-requests-e9af3e0827b8
+
+* https://www.googleapis.com/auth/firebase.messaging
+
+* https://stackoverflow.com/questions/47638441/google-fcm-invalid-argument-when-sending-message?rq=1
+
+* https://expertise.jetruby.com/firebase-cloud-storage-how-to-and-use-case-dd9810fe041b
+* https://medium.com/@impaachu/how-to-upload-data-to-firebase-firestore-cloud-database-63543d7b34c5
+* https://medium.com/@scosta/why-firebase-sucks-ce5d2302eb20
+* https://stackoverflow.com/questions/50399170/what-bearer-token-should-i-be-using-for-firebase-cloud-messaging-testing
+* https://medium.com/@osanda.deshan/getting-google-oauth-access-token-using-google-apis-18b2ba11a11a
+
+* https://stackoverflow.com/questions/53393717/firebase-bearer-token-from-oauth2-playground
+* https://developers.google.com/oauthplayground/
+* https://stackoverflow.com/questions/32076503/using-postman-to-access-oauth-2-0-google-apis
+
+* https://stackoverflow.com/questions/40838154/retrieve-google-access-token-after-authenticated-using-firebase-authentication?rq=1
+
+* https://medium.com/@ThatJenPerson/authenticating-firebase-cloud-messaging-http-v1-api-requests-e9af3e0827b8
+* https://firebase.google.com/docs/database/rest/auth
+* https://firebase.google.com/docs/cloud-messaging/js/first-message
+
+* https://stackoverflow.com/questions/38237559/how-do-you-send-a-firebase-notification-to-all-devices-via-curl
+* https://www.freecodecamp.org/news/how-to-add-push-notifications-to-a-web-app-with-firebase-528a702e13e1/
+* https://stackoverflow.com/questions/48076786/firebase-database-better-way-to-save-fcm-tokens-to-avoid-duplicates
+* https://www.atlantbh.com/blog/using-firebase-provide-real-time-notifications/
+* https://medium.com/@jerinamathews/send-firebase-cloud-messaging-fcm-to-a-topic-using-cloud-function-when-realtime-database-value-fa78fa758549
+* https://blog.usejournal.com/send-device-to-device-push-notifications-without-server-side-code-238611c143
+* https://firebase.google.com/docs/cloud-messaging/http-server-ref
+
